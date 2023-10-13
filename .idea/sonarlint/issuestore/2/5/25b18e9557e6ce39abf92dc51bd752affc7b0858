@@ -1,0 +1,73 @@
+
+e
+java:S1192["HDefine a constant instead of duplicating this literal "Done !!" 3 times.(ğ¸ùˆ8·òñÅ²1
+N
+java:S1602",Remove useless curly braces around statement(¸éâçıÿÿÿÿ8¥¯œÆ²1
+X	java:S125"<This block of commented-out lines of code should be removed.(ë¬ˆš8ÙòñÅ²1
+]	java:S125"<This block of commented-out lines of code should be removed.(‘¢ïÈûÿÿÿÿ8ÙòñÅ²1
+X	java:S125 "<This block of commented-out lines of code should be removed.(£×æ8ÙòñÅ²1
+]	java:S125""<This block of commented-out lines of code should be removed.(’û‡­øÿÿÿÿ8ÙòñÅ²1
+]	java:S125$"<This block of commented-out lines of code should be removed.(¸ÃÔ¯üÿÿÿÿ8ÙòñÅ²1
+X	java:S125&"<This block of commented-out lines of code should be removed.(çİö8ÙòñÅ²1
+X	java:S125("<This block of commented-out lines of code should be removed.(À€Îš8ÙòñÅ²1
+X	java:S125*"<This block of commented-out lines of code should be removed.(ùÉµ¬8ÙòñÅ²1
+]	java:S125,"<This block of commented-out lines of code should be removed.(‚Û›ñüÿÿÿÿ8ÙòñÅ²1
+]	java:S125."<This block of commented-out lines of code should be removed.(é‘Õüÿÿÿÿ8ÙòñÅ²1
+]	java:S1250"<This block of commented-out lines of code should be removed.(²ƒõìıÿÿÿÿ8ÙòñÅ²1
+]	java:S1252"<This block of commented-out lines of code should be removed.(ŞÅ‚øÿÿÿÿ8—À›Æ²1
+W
+java:S1854<";Remove this useless assignment to local variable "coureId".(€°Ò8ı¯ Æ²1
+O
+java:S1172:"-Remove this unused method parameter "appDao".(—úô½şÿÿÿÿ8˜äœÆ²1
+H
+java:S1481<",Remove this unused "coureId" local variable.(€°Ò8ı¯ Æ²1
+L	java:S106O"+Replace this use of System.out by a logger.(Š½²õüÿÿÿÿ8ÛòñÅ²1
+G	java:S106P"+Replace this use of System.out by a logger.(…ƒ°8ÛòñÅ²1
+G	java:S106Q"+Replace this use of System.out by a logger.(°êÇğ8ÛòñÅ²1
+G	java:S106Y"+Replace this use of System.out by a logger.(í¨æƒ8ÜòñÅ²1
+G	java:S106["+Replace this use of System.out by a logger.(ğ¸ùˆ8ÜòñÅ²1
+L	java:S106c"+Replace this use of System.out by a logger.(ÉÎ¡ëüÿÿÿÿ8İòñÅ²1
+G	java:S106g"+Replace this use of System.out by a logger.(±ö¡ß8İòñÅ²1
+G	java:S106k"+Replace this use of System.out by a logger.(ğ¸ùˆ8İòñÅ²1
+G	java:S106r"+Replace this use of System.out by a logger.(’éÁ‹8ŞòñÅ²1
+G	java:S106v"+Replace this use of System.out by a logger.(ú«şğ8ŞòñÅ²1
+L	java:S106"+Replace this use of System.out by a logger.(“³³äüÿÿÿÿ8ßòñÅ²1
+H	java:S106‚"+Replace this use of System.out by a logger.(‹¸®€8ßòñÅ²1
+H	java:S106…"+Replace this use of System.out by a logger.(Ä¢ß£8ßòñÅ²1
+M	java:S106‰"+Replace this use of System.out by a logger.(—âõ´øÿÿÿÿ8ßòñÅ²1
+M	java:S106"+Replace this use of System.out by a logger.(“³³äüÿÿÿÿ8àòñÅ²1
+H	java:S106’"+Replace this use of System.out by a logger.(‹¸®€8àòñÅ²1
+M	java:S106“"+Replace this use of System.out by a logger.(¢»ÂÁûÿÿÿÿ8àòñÅ²1
+H	java:S106•"+Replace this use of System.out by a logger.(ğ¸ùˆ8áòñÅ²1
+M	java:S106¦"+Replace this use of System.out by a logger.(•öô÷şÿÿÿÿ8ãòñÅ²1
+G	java:S106§"+Replace this use of System.out by a logger.(»•¸B8ãòñÅ²1
+H	java:S106±"+Replace this use of System.out by a logger.(ô×óç8äòñÅ²1
+G	java:S106µ"+Replace this use of System.out by a logger.(Çğõ"8äòñÅ²1
+H	java:S106¿"+Replace this use of System.out by a logger.(‰¢áÿ8åòñÅ²1
+M	java:S106Â"+Replace this use of System.out by a logger.(îìµÖıÿÿÿÿ8åòñÅ²1
+G	java:S106Ë"+Replace this use of System.out by a logger.(Çğõ"8æòñÅ²1
+G	java:S106Ô"+Replace this use of System.out by a logger.(‡âÒ88æòñÅ²1
+X
+java:S1144D";Remove this unused private "createCourseAndReviews" method.(¨ğšƒ8ŸÀ›Æ²1
+Q
+java:S1144V"5Remove this unused private "deleteCourseById" method.(¶ë«8çòñÅ²1
+N
+java:S1144^"1Remove this unused private "updateCourse" method.(õ—½8èòñÅ²1
+W
+java:S1144n"5Remove this unused private "updateInstructor" method.(¶•¯Ëÿÿÿÿÿ8èòñÅ²1
+_
+java:S1144}"=Remove this unused private "findCoursesForInstructor" method.(üëıÿÿÿÿ8èòñÅ²1
+\
+java:S1144Œ">Remove this unused private "findInstructorWithCourses" method.(‘Ô8èòñÅ²1
+^
+java:S1144˜"@Remove this unused private "createInstructorWithCourses" method.(òºŸŒ8èòñÅ²1
+]
+java:S1144­"?Remove this unused private "deleteInstructorDetailById" method.(„¤‘¤8èòñÅ²1
+[
+java:S1144¸"=Remove this unused private "findInstructorDetailById" method.(œãÈ¯8èòñÅ²1
+W
+java:S1144Å"9Remove this unused private "deleteInstructorById" method.(Ãã‡Œ8éòñÅ²1
+V
+java:S1144Î"3Remove this unused private "findInstructor" method.(ô˜–»úÿÿÿÿ8éòñÅ²1
+X
+java:S1144×"5Remove this unused private "createInsturctor" method.(Ç±’Öúÿÿÿÿ8éòñÅ²1
